@@ -102,9 +102,6 @@ a {
             width: 550px;
         }
 
-        body{
-            /* background-color: #F7515C; */
-        }
         .navbar{
             display: none;
         }
@@ -121,5 +118,8 @@ a {
         .home-left-logo{
             margin-top: 20px;
             width: 200px;
+        }
+        .home-left-theme{
+            color: red;
         }
 }
