@@ -47,6 +47,7 @@ a {
   margin-top: 98px;
   justify-content: space-between;
   position: relative;
+  padding-left: 50px    ;
 }
 
 .home-left-logo {
@@ -94,7 +95,7 @@ a {
     height: 264px;
     background-color: #F7515C;
     position: absolute;
-    left: -45px ;
+    left: -1px ;
 }
 
 @media screen and (max-width:400px)  {
